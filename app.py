@@ -8,7 +8,7 @@ OPEN_API_KEY = ''
 openai.api_key = OPEN_API_KEY
 
 # Set the page configuration
-st.set_page_config(page_title="Closer Look", page_icon="upscaled.jpg")
+st.set_page_config(page_title="Closer Look", page_icon="logo.jpg")
 
 # Define CSS style for the card
 st.markdown(
