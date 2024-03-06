@@ -4,7 +4,7 @@ import openai
 import json
 
 
-OPEN_API_KEY = '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'
+OPEN_API_KEY = ''
 openai.api_key = OPEN_API_KEY
 
 # Set the page configuration
